@@ -1,4 +1,3 @@
-# **Michael Nappi**
 
 I'm a Computer Science major at St. Bonaventure University that's passionate about user design and statistical analysis. I enjoy almost anything when it comes to software development.
 
