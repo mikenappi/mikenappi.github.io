@@ -19,9 +19,6 @@ Read my full **[Design Manifesto](manifesto.md)**, where I outline my personal p
 
 ### Buffalo Zoo App
 
-![Buffalo Zoo Page](buffalozoohomepage.png)
-
-
 **Project Type:** Mobile UX Design  
 **Tools:** Figma  
 
