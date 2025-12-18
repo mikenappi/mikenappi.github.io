@@ -20,6 +20,8 @@ Iterative prototyping and earlier ideation of designs were the most beneficial a
 
 Iteration turned out to be the most effective part of my workflow for every project. It was often only after the design was tested or visualized that problems with things like navigation or clarity became apparent.
 
+![WSBU Prototype, Night Schedule Screen](wsbunightschedulee.png)
+ 
 For instance, earlier iterations of the WSBU Prototype had issues with navigation clarity and properly showing the content of the site. Layouts had to be made simpler and navigation had to be clearer after criticism and revision, which shows how important iteration is in the design process.
 
 This procedure reaffirmed that initial designs are more like hypotheses rather than definitive solutions and that advancement in the design is achieved through iterative improvement.
@@ -32,6 +34,7 @@ The design process differed depending on what I was designing. User testing and 
 
 In contrast, the NBA Shots Heat Chart required a different approach. 
 
+![NBA Heat Chart](nbaheatchart.png)
 
 Instead of testing interaction flows, the focus shifted to visual clarity and pattern recognition. Design decisions are evaluated based on how quickly and accurately users can interpret the data shown by the graph.
 
