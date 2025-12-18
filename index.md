@@ -1,4 +1,4 @@
-# **Michael Nappi — Design Portfolio**
+# **Michael Nappi**
 
 Welcome to my design portfolio for *CS-130 and CS-257*. 
 This site brings together the major projects, prototypes, analyses, and reflections I’ve created throughout the semester. 
@@ -19,6 +19,8 @@ Read my full **[Design Manifesto](manifesto.md)**, where I outline my personal p
 
 ### Buffalo Zoo App
 
+![Buffalo Zoo Home Page](buffalozoohomepagge.png)
+
 **Project Type:** Mobile UX Design  
 **Tools:** Figma  
 
@@ -30,6 +32,8 @@ This project focused on designing a mobile app experience for parents who want t
 - Creating a clear, friendly interface suitable for a wide age range
 
 **[View Figma Prototype](https://www.figma.com/design/pnvTYex16bkdXRIZHD5ULB/Buffalo-Zoo-App)**
+
+**[View Design Document](https://bonaventureedu-my.sharepoint.com/:w:/g/personal/nappimd24_bonaventure_edu/IQD3L3GzMHWiTp4tlh7cUihCAYbXi-Vm3rnFjQi5N3NqfFA?e=uf8wBP)**
 
 ---
 
@@ -47,11 +51,15 @@ This project involved redesigning/conceptualizing a digital experience for WSBU,
 
 **[View Figma Prototype](https://www.figma.com/design/L3tVzrUe0DaY3lwohn8arT/WSBU-Prototype)**
 
+**[View Design Document](https://bonaventureedu-my.sharepoint.com/:w:/g/personal/nappimd24_bonaventure_edu/IQAE2aywwH7BSahP65j5e60DAY56qgFLcURuHbgr50CDLFQ?e=mcRGce)**
+
 ---
 
 ## UX-Focused Data Visualization
 
 ### NBA Shots Heat Chart
+
+![Heat Chart Picture](nbaheatchart.png)
 
 **Project Type:** Data Visualization  
 **Tools:** Tableau  
@@ -65,6 +73,8 @@ This project explored how data visualization can support user understanding of p
 - Designing for both casual and knowledgeable users
 
 **[View Tableau Visualization](https://public.tableau.com/views/NBAShotsHeatChart/Dashboard1)**
+
+**[View Design Document](https://bonaventureedu-my.sharepoint.com/:w:/g/personal/nappimd24_bonaventure_edu/IQCk1zlmnyv0RaXDFMVBhaN3Aaykd1j19P_rsWfSXERZn14?e=lFvmGk)**
 
 ---
 
