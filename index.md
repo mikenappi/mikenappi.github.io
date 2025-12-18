@@ -1,7 +1,8 @@
 # **Michael Nappi**
 
-Welcome to my design portfolio for *CS-130 and CS-257*. 
-This site brings together the major projects, prototypes, analyses, and reflections I’ve created throughout the semester. 
+I'm a Computer Science major at St. Bonaventure University that's passionate about user design and statistical analysis. I enjoy almost anything when it comes to software development.
+
+This site brings together the major projects, prototypes, analyses, and reflections I’ve created throughout the Fall 2025 semester. 
 Each project demonstrates how I applied human-centered design principles, iteration, critique, and usability testing to arrive at effective design solutions.
 
 
@@ -38,6 +39,8 @@ This project focused on designing a mobile app experience for parents who want t
 ---
 
 ### WSBU Prototype
+
+![WSBU Example Page](RadioWebsitePage.png)
 
 **Project Type:** Web UX Design
 **Tools:** Figma  
@@ -85,3 +88,10 @@ This project explored how data visualization can support user understanding of p
 - Iterative design and critique
 - Figma
 - Tableau
+
+---
+
+## Contact Me
+
+- email: nappimichael22@gmail.com
+- phone number: (585)626-8064
